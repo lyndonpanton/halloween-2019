@@ -7,7 +7,7 @@ body, html {
 	width: 100%;
 	min-height: 100%;
 	background-color: #111188;
-	font-family: Brush Script MT, cursive;
+	font-family: cursive;
 	font-size: 16px;
 	color: #FFFFFF;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 
 .heading {
-	padding: 50px 0; 
+	padding: 50px;
 	min-height: 120px;
 	background-image: url("../img/main.jpg");
 	background-repeat: no-repeat;
