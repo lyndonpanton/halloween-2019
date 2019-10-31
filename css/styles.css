@@ -125,6 +125,11 @@ footer {
 
 /* media queries */
 @media (min-width: 750px) {
+	/* heading */
+	.heading {
+		padding: 150px 0;
+	}
+	
 	/* main */
 	main {
 		font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
