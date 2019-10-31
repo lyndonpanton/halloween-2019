@@ -51,6 +51,15 @@ h1 {
 	background-color: #FFA204;
 }
 
+.main-nav a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.main-nav a:hover {
+	text-decoration: underline;
+}
+
 .main-nav ul {
 	display: flex;
 	flex-direction: row;
