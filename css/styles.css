@@ -99,6 +99,10 @@ section {
 	width: 50%;
 }
 
+#gallery-text {
+	text-align: center;
+}
+
 /* footer */
 footer {
 	background-color: #FFA204;
