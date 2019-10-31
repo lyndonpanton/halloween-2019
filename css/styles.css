@@ -42,8 +42,34 @@ h1 {
 }
 
 .heading p {
-	margin: 5px;
+	margin: 5px 0 0 0;
 	font-size: 1.5em;
+}
+
+.main-nav {
+	background-color: #FFA204;
+}
+
+.main-nav ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+}
+
+.main-nav li {
+	flex: 1;
+
+	padding: 10px 0;
+	text-align: center;
+	color: #000000;
+}
+
+.main-nav li:hover {
+	background-color: #FF6666;
 }
 
 /* main */
