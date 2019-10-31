@@ -1,1 +1,21 @@
 @charset "UTF-8";
+
+/* general */
+body, html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	min-height: 100%;
+	background-color: #111188;
+	font-family: Brush Script MT, cursive;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+/* global */
+
+/* header */
+
+/* main */
+
+/* footer */
