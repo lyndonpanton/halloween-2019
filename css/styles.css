@@ -92,6 +92,18 @@ section {
 	width: 80%;
 }
 
+.gallery {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.gallery-image {
+	margin: 20px;
+	width: 100px;
+}
+
 .heading-image {
 	float: left;
 
