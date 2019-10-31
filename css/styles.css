@@ -15,9 +15,14 @@ body, html {
 /* global */
 
 /* header */
+h1 {
+	margin: 0;
+	text-align: center;
+	font-size: 3em;
+}
+
 .hamburger {
 	display: block;
-	position: fixed;
 
 	margin: 20px;
 	border: 4px solid #111188;
@@ -25,6 +30,20 @@ body, html {
 	width: 40px;
 	height: 30px;
 	background-image: linear-gradient(0deg, #FFFFFF 0%, #FFFFFF 14%, transparent 14%, transparent 42%, #FFFFFF 42%, #FFFFFF 56%, transparent 56%, transparent 84%, #FFFFFF 84%, #FFFFFF 100%);
+}
+
+.heading {
+	padding: 50px 0; 
+	min-height: 120px;
+	background-image: url("../img/main.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+.heading p {
+	margin: 5px;
+	font-size: 1.5em;
 }
 
 /* main */
