@@ -73,5 +73,19 @@ h1 {
 }
 
 /* main */
+h2 {
+	text-align: center;
+}
 
+section {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.heading-image {
+	float: left;
+
+	margin-right: 20px;
+	width: 50%;
+}
 /* footer */
